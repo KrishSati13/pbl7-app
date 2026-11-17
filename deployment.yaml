@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: your-dockerhub-username/pbl7-app:latest
+        image: krishsati13/pbl7-app:latest
         ports:
         - containerPort: 5000
 ---
